@@ -153,18 +153,18 @@ To achieve a "seamless, out-of-the-box" user experience and eliminate the comple
 
 ## 📚 Technical Guides
 Detailed documentation for developers and advanced users:
-- ⚙️ **<a href="01-general-settings.md" style="color: #375dfb; text-decoration: none;">General Settings Guide</a>**: Configure appearance, environment paths, behavior, and services.
-- 📝 **<a href="02-formatting-rules.md" style="color: #375dfb; text-decoration: none;">Format Processing Engine</a>**: Deep dive into Markdown/HTML to Office conversion rules and Excel adaptation.
-- 🎨 **<a href="03-style-mapping.md" style="color: #375dfb; text-decoration: none;">Style Mapping Standards</a>**: Configure Word styles for paragraphs, tables, and images.
-- ➗ **<a href="04-troubleshooting.md" style="color: #375dfb; text-decoration: none;">Formula Conversion Standards</a>**: LaTeX fixes, MathML mapping, and formula styling.
+- ⚙️ **<a href="01-general-settings.md"><span style="color: #375dfb;">General Settings Guide</span></a>**：Configure appearance, environment paths, behavior, and services.
+- 📝 **<a href="02-formatting-rules.md"><span style="color: #375dfb;">Format Processing Engine</span></a>**：Deep dive into Markdown/HTML to Office conversion rules and Excel adaptation.
+- 🎨 **<a href="03-style-mapping.md"><span style="color: #375dfb;">Style Mapping Standards</span></a>**：Configure Word styles for paragraphs, tables, and images.
+- ➗ **<a href="04-troubleshooting.md"><span style="color: #375dfb;">Formula Conversion Standards</span></a>**：LaTeX fixes, MathML mapping, and formula styling.
 
 ## 🤝 Contribution & Feedback
-- **Contribution**: We welcome Pull Requests! Please see **<a href="../../CONTRIBUTING.md" style="color: #375dfb; text-decoration: none;">CONTRIBUTING.md</a>** for details.
-- **Bug Reports**: Submit an <a href="https://github.com/AIDriveLab/AIDOCStation/issues" style="color: #375dfb; text-decoration: none;">Issue</a>.
-- **Security & Privacy**: For vulnerability reporting and privacy, see **<a href="../../SECURITY.md" style="color: #375dfb; text-decoration: none;">SECURITY.md</a>**.
+- **Contribution**: We welcome Pull Requests! Please see **<a href="../../CONTRIBUTING.md"><span style="color: #375dfb;">CONTRIBUTING.md</span></a>** for details.
+- **Bug Reports**: Submit an <a href="https://github.com/AIDriveLab/AIDOCStation/issues"><span style="color: #375dfb;">Issue</span></a>.
+- **Security & Privacy**: For vulnerability reporting and privacy, see **<a href="../../SECURITY.md"><span style="color: #375dfb;">SECURITY.md</span></a>**。
 
 ## 📄 License
-Licensed under the <a href="../../LICENSE" style="color: #375dfb; text-decoration: none;">LICENSE</a>. See the file for details.
+Licensed under the <a href="../../LICENSE"><span style="color: #375dfb;">LICENSE</span></a>. See the file for details.
 
 ---
 
