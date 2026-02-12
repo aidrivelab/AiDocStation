@@ -163,7 +163,7 @@ AIDOC 生态围绕「云端统一身份 + 本地高效处理 + 插件智能创�
 
 ## 🤝 贡献与反馈
 - **参与贡献**：欢迎提交 Pull Request！详细流程请参阅 **<a href="CONTRIBUTING.md" style="color: #375dfb; text-decoration: none;">CONTRIBUTING.md</a>**。
-- **问题反馈**：请提交 <a href="https://github.com/AIDriveLab/AIDOCStation/issues" style="color: #375dfb; text-decoration: none;">Issue</a> 或在 Discussions 板块交流。
+- **问题反馈**：请提交 <a href="https://github.com/AIDriveLab/AIDOCStation/issues" style="color: #375dfb; text-decoration: none;">Issue</a> 或在 <a href="https://github.com/AIDriveLab/AIDOCStation/discussions" style="color: #375dfb; text-decoration: none;">Discussions</a> 板块交流。
 - **安全与隐私**：有关漏洞报告和隐私声明，请参阅 **<a href="SECURITY.md" style="color: #375dfb; text-decoration: none;">SECURITY.md</a>**。
 
 ## 📄 开源协议
