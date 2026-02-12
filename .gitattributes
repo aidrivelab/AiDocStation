@@ -1,0 +1,22 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# Handle CRLF for Windows specific files
+*.py text eol=crlf
+*.md text eol=crlf
+*.json text eol=crlf
+*.nsi text eol=crlf
+*.nsh text eol=crlf
+
+# Binary files
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.exe binary
+*.dll binary
+*.zip binary
+*.7z binary
+*.docx binary
+*.xlsx binary

@@ -1,0 +1,10 @@
+{
+  "name": "aidoc-station",
+  "version": "0.2.6",
+  "dependencies": {
+    "mermaid-filter": "^1.4.7"
+  },
+  "scripts": {
+    "dev": "python main.py"
+  }
+}
