@@ -1,7 +1,7 @@
 # AIDOC Station (Lite) Open Source Project
 
 <p align="center">
-  <img src="../../docs/images/aidoc/logo_banner.png" alt="AIDOC Station Logo" width="600">
+  <img src="../../docs/images/AIDoc/logo_banner.png" alt="AIDOC Station Logo" width="600">
 </p>
 
 <p align="center">
