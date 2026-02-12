@@ -156,24 +156,24 @@ AIDOC 生态围绕「云端统一身份 + 本地高效处理 + 插件智能创�
 
 ## 📚 技术指南
 为开发者与高级用户提供深度功能说明：
-- ⚙️ **<a href="docs/zh/general-settings.md"><span style="color: #375dfb;">常规设置指南</span></a>**：可配置外观、环境路径、交互行为、AIDOC 服务及启动通知，优化 AiDocStation 使用体验。
-- 📝 **<a href="docs/zh/format-processing.md"><span style="color: #375dfb;">格式处理引擎</span></a>**：针对 Markdown/HTML 转 Office 的细节优化，含转换规则、文档清洗、后处理及 Excel 适配等精准配置。
-- 🎨 **<a href="docs/zh/style-mapping.md"><span style="color: #375dfb;">样式映射标准</span></a>**：可配置段落、表格、图片的 Word 样式及处理策略，统一文档排版，提升输出美观度与专业性。
-- ➗ **<a href="docs/zh/formula-conversion.md"><span style="color: #375dfb;">公式转换规范</span></a>**：LaTeX 修复方案、MathML 映射逻辑、公式样式定制
+- ⚙️ **<a href="docs/zh/general-settings.md"><font color="#375dfb">常规设置指南</font></a>**：可配置外观、环境路径、交互行为、AIDOC 服务及启动通知，优化 AiDocStation 使用体验。
+- 📝 **<a href="docs/zh/format-processing.md"><font color="#375dfb">格式处理引擎</font></a>**：针对 Markdown/HTML 转 Office 的细节优化，含转换规则、文档清洗、后处理及 Excel 适配等精准配置。
+- 🎨 **<a href="docs/zh/style-mapping.md"><font color="#375dfb">样式映射标准</font></a>**：可配置段落、表格、图片的 Word 样式及处理策略，统一文档排版，提升输出美观度与专业性。
+- ➗ **<a href="docs/zh/formula-conversion.md"><font color="#375dfb">公式转换规范</font></a>**：LaTeX 修复方案、MathML 映射逻辑、公式样式定制
 
 ## 🤝 贡献与反馈
-- **参与贡献**：欢迎提交 Pull Request！详细流程请参阅 **<a href="CONTRIBUTING.md"><span style="color: #375dfb;">CONTRIBUTING.md</span></a>**。
-- **问题反馈**：请提交 <a href="https://github.com/AIDriveLab/AIDOCStation/issues"><span style="color: #375dfb;">Issue</span></a> 或在 <a href="https://github.com/AIDriveLab/AIDOCStation/discussions"><span style="color: #375dfb;">Discussions</span></a> 板块交流。
-- **安全与隐私**：有关漏洞报告和隐私声明，请参阅 **<a href="SECURITY.md"><span style="color: #375dfb;">SECURITY.md</span></a>**。
+- **参与贡献**：欢迎提交 Pull Request！详细流程请参阅 **<a href="CONTRIBUTING.md"><font color="#375dfb">CONTRIBUTING.md</font></a>**。
+- **问题反馈**：请提交 <a href="https://github.com/AIDriveLab/AIDOCStation/issues"><font color="#375dfb">Issue</font></a> 或在 <a href="https://github.com/AIDriveLab/AIDOCStation/discussions"><font color="#375dfb">Discussions</font></a> 板块交流。
+- **安全与隐私**：有关漏洞报告和隐私声明，请参阅 **<a href="SECURITY.md"><font color="#375dfb">SECURITY.md</font></a>**。
 
 ## 📄 开源协议
-本项目基于 MIT 协议开源，详见 <a href="LICENSE"><span style="color: #375dfb;">LICENSE</span></a> 文件。
+本项目基于 MIT 协议开源，详见 <a href="LICENSE"><font color="#375dfb">LICENSE</font></a> 文件。
 
 
 ---
 
 <p align="center">
-  由 <b><a href="https://www.pcfox.cn" style="color: #375dfb; text-decoration: none;">AIDriveLab / AI驱动创新</a></b> 打造 · 让 AI 内容无缝落地办公场景
+  由 <b><a href="https://www.pcfox.cn"><font color="#375dfb">AIDriveLab / AI驱动创新</font></a></b> 打造 · 让 AI 内容无缝落地办公场景
 </p>
 
 <p align="center">
