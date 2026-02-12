@@ -57,22 +57,22 @@ AIDOC 生态围绕「云端统一身份 + 本地高效处理 + 插件智能创�
 
 #### 1. 🚀 一键精准转换，格式零错乱
 自定义快捷键 Ctrl+Shift+Q（支持自由配置）一键触发，自动读取剪贴板中的 Markdown/HTML 内容，瞬间转译为 Office 原生格式 —— 标题层级、列表结构、图片位置、换行逻辑 1:1 完整还原，彻底告别粘贴后格式错乱的困扰。更支持将 Markdown 语法（如 # 标题1/## 标题2）与 Word 自定义样式提前绑定，转换后直接套用预设模板，无需手动调整，排版一步到位。
-> 📸 一键转换Wrod格式：![一键转换效果对比](docs/images/one-click-conversion.gif)
+> 📸 一键转换 Word 格式：<br><img src="docs/images/one-click-conversion.gif" width="600" alt="一键转换效果对比">
 > *说明：左侧为豆包AI生成的Markdown内容包含Mermaid语法、表格等，右侧为 AIDOC Station 转换后的插入Word文档的规整格式*
 
 #### 2. 🎨 智能样式映射，排版规则一键复用
 内置段落、列表、表格、图片等全场景「样式映射配置」，支持将 Markdown 内容直接匹配 Word/WPS 内置样式（含正文、正文文本、正文缩进、题注等高频场景）；自动识别 Markdown 有序 / 无序列表并精准转换为对应段落样式，无需手动调整格式，让排版规则零成本复用，办公效率直线提升。
-> 📸 样式映射配置：![样式映射配置界面](docs/images/style-mapping.gif)
+> 📸 样式映射配置：<br><img src="docs/images/style-mapping.gif" width="600" alt="样式映射配置界面">
 > *说明：样式映射配置面板，可绑定 Markdown 语法转后对应的 Word 样式*
 
 #### 3. 🔬 支持复杂数学公式原生渲染
 深度适配 LaTeX/KaTeX 数学公式，自动转译为 Office 原生公式对象，彻底告别粘贴后公式变代码的糟心场景；转换后支持直接编辑、自由缩放、格式微调，像操作本地公式一样灵活省心，学术 / 技术文档排版效率翻倍。
-> 📸 数学公式渲染效果：![公式转换效果](docs/images/formula-conversion.gif)
+> 📸 数学公式渲染效果：<br><img src="docs/images/formula-conversion.gif" width="600" alt="公式转换效果">
 > *说明：LaTeX 公式转换为 Word 原生公式对象，支持编辑、缩放、格式调整*
 
 #### 4. 📋 参考文档一键复用，品牌排版高效落地
 支持指定自定义模板，一键复制模板的页眉 / 页脚、全套样式属性，快速复用品牌化排版规范，无需手动复刻格式；搭配可自由编辑的 AIDoc 标准参考模板，既能直接套用现成规范，也能按需调整细节，大幅减少重复排版工作，效率直接拉满。
-> 📸 参考文档一键复用：![参考文档一键复用](docs/images/reference-document.gif)
+> 📸 参考文档一键复用：<br><img src="docs/images/reference-document.gif" width="600" alt="参考文档一键复用">
 > *说明：参考文档一键复用，支持复制模板的页眉/页脚、全套样式属性*
 
 
